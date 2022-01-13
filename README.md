@@ -10,7 +10,7 @@ A PPA repository for my packages:
 curl -SsL https://hiulit.github.io/ppa/KEY.gpg | sudo apt-key add -
 sudo curl -SsL -o /etc/apt/sources.list.d/hiulit.list https://hiulit.github.io/ppa/hiulit.list
 sudo apt update
-sudo apt install joincap xioc sqlitequeryserver
+sudo apt install godot
 ```
 
 ## Credits
