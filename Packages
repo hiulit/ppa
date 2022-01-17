@@ -1,4 +1,16 @@
 Package: godot
+Version: 3.3.4
+Architecture: armhf
+Maintainer: hiulit <hiulit@gmail.com>
+Filename: ./godot_3.3.4-1_armhf.deb
+Size: 20276640
+MD5sum: 3005b712ed4a2bd39e0f382280948879
+SHA1: 950ac1afc7f29ba698ada765f993695b6a87a059
+SHA256: 408594c40b0ca885245aa21acb170dadb7db1509739b2a9234c62a921d943d03
+Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
+Description: Unofficial Godot Engine binaries for the Raspberry Pi.
+
+Package: godot
 Version: 3.4.2
 Architecture: armhf
 Maintainer: hiulit <hiulit@gmail.com>
