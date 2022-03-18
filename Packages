@@ -1,5 +1,17 @@
 Package: godot
 Version: 2.1.6
+Architecture: arm64
+Maintainer: hiulit <hiulit@gmail.com>
+Filename: ./godot_2.1.6-1_arm64.deb
+Size: 11128276
+MD5sum: 281668df7a2439b2ac12513502b6b1df
+SHA1: 44ecfb3a4deee2aa0476eb5ad6221de587ee551f
+SHA256: ab61e209389b4a1385d359c6d42f79d20cb3db01d1778a698d6d843837a41202
+Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
+Description: Unofficial Godot Engine binaries for the Raspberry Pi.
+
+Package: godot
+Version: 2.1.6
 Architecture: armhf
 Maintainer: hiulit <hiulit@gmail.com>
 Filename: ./godot_2.1.6-1_armhf.deb
@@ -7,6 +19,30 @@ Size: 10798040
 MD5sum: 63f00d54c7af91347b8386c7533cda3c
 SHA1: a72518bb2ef08853ec8ff1201a82fa32ddcf4d8b
 SHA256: 94576b72d229e564ca7772cf8bc7d9c52be560ca02d107cec9d22349d912dab4
+Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
+Description: Unofficial Godot Engine binaries for the Raspberry Pi.
+
+Package: godot
+Version: 3.1.2
+Architecture: arm64
+Maintainer: hiulit <hiulit@gmail.com>
+Filename: ./godot_3.1.2-1_arm64.deb
+Size: 17320224
+MD5sum: 35ec397761478ff1eb758f90adf87f7e
+SHA1: 99c446284f7ac7d097b3013549b75bae5bd12607
+SHA256: 327e2934e28e97a37edcdc837a12c950a8e54e33fdd6458b941ced628e6f8af5
+Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
+Description: Unofficial Godot Engine binaries for the Raspberry Pi.
+
+Package: godot
+Version: 3.3.4
+Architecture: arm64
+Maintainer: hiulit <hiulit@gmail.com>
+Filename: ./godot_3.3.4-1_arm64.deb
+Size: 20906032
+MD5sum: 56ca8511a6b7e2ea3a4ca0c0593815d2
+SHA1: 30106dc5c56003f6332b31979771ae3dab01bbcc
+SHA256: 6496f1bec20ce592ba990a46c08f134db46b0770a79aff607b5a0e156c084536
 Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
 Description: Unofficial Godot Engine binaries for the Raspberry Pi.
 
@@ -23,14 +59,26 @@ Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
 Description: Unofficial Godot Engine binaries for the Raspberry Pi.
 
 Package: godot
-Version: 3.4.2
+Version: 3.4.3
+Architecture: arm64
+Maintainer: hiulit <hiulit@gmail.com>
+Filename: ./godot_3.4.3-1_arm64.deb
+Size: 23333364
+MD5sum: 9c94cdf2df4a22d0a92be647434ec22e
+SHA1: a0dcb76e657e72db4b602f789c83f372a2ff0497
+SHA256: c2cc27d85150169fad7bf0a351c481599b4e71d3994bba5f7b82663756403bca
+Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
+Description: Unofficial Godot Engine binaries for the Raspberry Pi.
+
+Package: godot
+Version: 3.4.3
 Architecture: armhf
 Maintainer: hiulit <hiulit@gmail.com>
-Filename: ./godot_3.4.2-1_armhf.deb
-Size: 22762116
-MD5sum: e78d5f63d638bf788c39b2e916a70c05
-SHA1: 100fd803c04bb6a837205c76c80000035c37fe0b
-SHA256: 50d8b065f83bde8da7411f8044e810ef1728e06b0641589ec0bc9bbc347c9396
+Filename: ./godot_3.4.3-1_armhf.deb
+Size: 22777404
+MD5sum: 0b09084e844d4bcd17141dace883c5be
+SHA1: 022225268f8768dea130b619f5ce9452c9edaaeb
+SHA256: 38bf4fb053e74a0f64999f442d4d338a4e2c28565dc18096dde3f2e138c9d967
 Homepage: https://github.com/hiulit/Unofficial-Godot-Engine-Raspberry-Pi
 Description: Unofficial Godot Engine binaries for the Raspberry Pi.
 
